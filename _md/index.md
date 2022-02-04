@@ -1,6 +1,6 @@
 
 [meta]: # (CSS_URL=./theme.css)
-[meta]: # (DOCUMENT_TITLE=title)
+[meta]: # (DOCUMENT_TITLE=vivekn - lab)
 
 ## lab
 
